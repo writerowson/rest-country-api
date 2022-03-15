@@ -6,6 +6,7 @@ grid-gap:20px
 .country{
     border :3px solid royalblue;
     border-radius:20px;
+    padding: 20px;
 }
 
 .country img {
